@@ -779,7 +779,7 @@ a {
 }
 
 a:hover {
-    color: #03174C;
+    color: var(--white-color);
     text-decoration: none;
 }
 
